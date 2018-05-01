@@ -36,3 +36,5 @@
       ``cd C:/User/User/Documents/Discordbot``
   After you have moved to the directory of the index.js file, you will have to run this command which will start the bot.
   `` node .``
+#### working off of this template
+- If you wish to work directly off of this template, please fork the project.
