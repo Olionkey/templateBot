@@ -33,7 +33,7 @@
   To run the bot open up command prompt
   Then move to the directory of the index.js file with ``cd``
     example.
-      ``cd C:/User/User/Documents/Discordbot``
+      ``cd C:/$User/$User/Documents/Discordbot``
   After you have moved to the directory of the index.js file, you will have to run this command which will start the bot.
   `` node .``
 #### working off of this template
